@@ -1,4 +1,3 @@
-package com.hmt.common.util;
 
 import java.text.ParseException;
 import java.text.ParsePosition;
